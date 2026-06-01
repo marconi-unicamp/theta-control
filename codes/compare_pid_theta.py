@@ -1,6 +1,5 @@
 """
 Theta-Control: Superiority demonstration vs PID
-FINAL CORRECT VERSION
 """
 
 import numpy as np
